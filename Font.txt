@@ -1,0 +1,32 @@
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Raleway', sans-serif;
+
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fdfdfe;
+
+
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #353535;
+
+
+    .p_picture_icon{
+    position: absolute;
+    display: inline-block;
+}
+
+.shape{
+    height: 30px;
+    width: 30px;
+    background: #fbfaf8;
+    transform: rotate(45deg);
+    position: absolute;
+    left: 20px;
+    bottom: -15px;
+}
